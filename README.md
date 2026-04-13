@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="img/cover-letter.jpg" style="width:100%" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=10%2B+Years+Building+Production+Systems;Laravel+%7C+React+%7C+Vue+%7C+Next.js;AI+Integration+%7C+Cloud+Architecture;Remote+Across+US+%2F+EU+Teams" />
 </div>
 
