@@ -1,8 +1,6 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
-  Senior Full-Stack & AI Developer
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" />
-</h1>
+<div align="center">
+  <img src="img/cover-letter.png" width="700" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=10%2B+Years+Building+Production+Systems;Laravel+%7C+React+%7C+Vue+%7C+Next.js;AI+Integration+%7C+Cloud+Architecture;Remote+Across+US+%2F+EU+Teams" />
@@ -115,33 +113,4 @@
 
 <br/>
 
-<h2 align="center">What I Do</h2>
-
-<div align="center">
-
-🚀 Build scalable SaaS platforms and MVPs  
-⚙️ Design backend architecture and APIs  
-🎯 Develop fast, responsive frontend apps  
-☁️ Deploy with Docker, CI/CD, AWS & GCP  
-🤖 Integrate AI features and automation  
-👨‍💻 Lead teams and mentor developers  
-
-</div>
-
-<br/>
-
 <h3 align="center">Let’s Connect</h3>
-
-<div align="center">
-  <a href="mailto:jeramcoder@gmail.com">Email</a> •
-  <a href="#">LinkedIn</a> •
-  <a href="#">GitHub</a>
-</div>
-
-<br/>
-
-<h2 align="center">Cover Letter</h2>
-
-<div align="center">
-  <img src="https://your-image-link.com/cover-letter.png" width="700" />
-</div>
