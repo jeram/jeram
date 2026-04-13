@@ -50,7 +50,6 @@
   </table>
 </div>
 
-<br/>
 
 <div align="center">
   <table>
@@ -78,8 +77,6 @@
     </tbody>
   </table>
 </div>
-
-<br/>
 
 <div align="center">
   <table>
@@ -110,7 +107,3 @@
     </tbody>
   </table>
 </div>
-
-<br/>
-
-<h3 align="center">Let’s Connect</h3>
