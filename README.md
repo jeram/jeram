@@ -11,14 +11,8 @@
 
   ### About Me
 
-  Senior full-stack developer with 10+ years of experience building scalable web and mobile applications for startups and product teams across the US and Europe.
-
-  I handle projects end-to-end — architecture, backend, frontend, DevOps, and deployment. I’ve worked fully remote for 6+ years across multiple time zones.
-
-  I also build AI-powered features using OpenAI, LangChain, and modern backend systems.
+  Senior full-stack developer with 10+ years of experience building scalable web and mobile applications for startups and product teams across the US and Europe. I handle projects end-to-end — architecture, backend, frontend, DevOps, and deployment. I’ve worked fully remote for 6+ years across multiple time zones. I also build AI-powered features using OpenAI, LangChain, and modern backend systems.
 </div>
-
-<br clear="both"/>
 
 <h2 align="center">
   <img src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/code.gif" width="30">
