@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=10%2B+Years+Building+Production+Systems;Laravel+%7C+React+%7C+Vue+%7C+Next.js;AI+Integration+%7C+Cloud+Architecture;Remote+Across+US+%2F+EU+Teams" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=8%2B+Years+Building+Production+Systems;Laravel+%7C+React+%7C+Vue+%7C+Next.js;AI+Integration+%7C+Cloud+Architecture;Remote+Across+US+%2F+EU+Teams" />
 </div>
 
 <div>
@@ -7,7 +7,7 @@
 
   ### About Me
 
-  Senior full-stack developer with 10+ years of experience building scalable web and mobile applications for startups and product teams across the US and Europe. I handle projects end-to-end — architecture, backend, frontend, DevOps, and deployment. I’ve worked fully remote for 6+ years across multiple time zones. I also build AI-powered features using OpenAI, LangChain, and modern backend systems.
+  Senior full-stack developer with 8+ years of experience building scalable web and mobile applications for startups and product teams across the US and Europe. I handle projects end-to-end — architecture, backend, frontend, DevOps, and deployment. I’ve worked fully remote for 6+ years across multiple time zones. I also build AI-powered features using OpenAI, LangChain, and modern backend systems.
 </div>
 
 <h2 align="center">
